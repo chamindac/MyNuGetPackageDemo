@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <PackageId>mydotnetpacknugetdemo</PackageId>
+    <PackageId>mynuspecnugetdemo</PackageId>
     <VersionPrefix>1.0.0</VersionPrefix>
     <VersionSuffix>$(VersionSuffix)</VersionSuffix>
     <Authors>chamindac</Authors>
